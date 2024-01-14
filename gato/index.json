@@ -22,17 +22,17 @@
   <div id="PzMzlhx" data-type="container">
     <div id="UJAtZZS" data-type="backgrounds">
       
-      <div id="QDVYEol" data-type="bg-color" class="div-visible">
+      <div id="QDVYEol" data-type="bg-color" class="div-hidden">
         <div id="ehRgpnu" data-type="solid-color" class="div-visible" style="background: rgb(0, 0, 255);"></div>
         <div id="EuQWxqe" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
         <div id="EkDZXIy" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgba(255,0,0,0), rgba(255,0,0,1));"></div>
       </div> <!-- bg-color -->
 
-      <div id="GgUWzGx" data-type="bg-image" class="div-hidden">
+      <div id="GgUWzGx" data-type="bg-image" class="div-visible">
         <picture id="XizyoGE">
           <source srcset="" media="(max-width:640px)">
           <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-          <img id="izgxqNB" src="./assets/image/tapas-hero1.png" data-type="img-bg" loading="lazy">
+          <img id="izgxqNB" src="https://images.unsplash.com/photo-1491485880348-85d48a9e5312?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw3fHxjYXR8ZW58MHwwfHx8MTcwNTI0NzIyMnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy">
         </picture>
       </div> <!-- bg-image -->
 
